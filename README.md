@@ -2,11 +2,11 @@
 
 ***
 
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RFP-11&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/RFP-11/github-readme-stats)
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RFP-11&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/RFP-11)
 
 ***
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFP-11&layout=compact&langs_count=7&theme=dark&count_private=true)](https://github.com/RFP-11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFP-11&layout=compact&langs_count=7&theme=dark&count_private=true)](https://github.com/RFP-11)
 
 <!---
 All inbuilt themes:-
